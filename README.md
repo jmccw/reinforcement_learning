@@ -15,6 +15,10 @@ After training:
 
 ![CARTPOLE OPTIMAL 10 SECONDS](https://github.com/jmccw/reinforcement_learning/assets/72471173/0d3f1dd1-50d5-440e-9d59-de8adef2c40a)
 
+Algorithm Performance (See text):
+
+![image](https://github.com/jmccw/reinforcement_learning/assets/72471173/2274eac4-d886-498d-a834-cf593d59370a)
+
 # Frozen Lake Solutions (Q-Learning):
 
 EPISODE 0:
@@ -28,5 +32,10 @@ EPISODE 100:
 EPISODE 4000:
 
 ![ep4000](https://github.com/jmccw/reinforcement_learning/assets/72471173/0ee1d564-27fe-4d8f-9918-625c8a266e75)
+
+Algorithm Performance (See text):
+
+![image](https://github.com/jmccw/reinforcement_learning/assets/72471173/cdf6033d-f419-44f6-a890-af528b5661fa)
+![image](https://github.com/jmccw/reinforcement_learning/assets/72471173/ee97179d-b86e-4ebb-8d52-8669e1cda4c1)
 
 
