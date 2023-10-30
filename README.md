@@ -5,7 +5,7 @@ This project derived and utilised Bellman Optimality for Reinforcement Learning
 
 *Text co-authored with Adam Tang (UCC Maths & Physics), James O'Sullivan (UCC Maths & Physics).
 
-# CartPole Solutions:
+# CartPole Solutions (Via Deep-Q-Learning):
 
 Before training:
 
@@ -15,7 +15,7 @@ After training:
 
 ![CARTPOLE OPTIMAL 10 SECONDS](https://github.com/jmccw/reinforcement_learning/assets/72471173/0d3f1dd1-50d5-440e-9d59-de8adef2c40a)
 
-# Frozen Lake Solutions:
+# Frozen Lake Solutions (Q-Learning):
 
 EPISODE 0:
 
