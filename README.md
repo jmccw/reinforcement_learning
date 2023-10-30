@@ -17,7 +17,8 @@ After training:
 
 Algorithm Performance (See text):
 
-![image](https://github.com/jmccw/reinforcement_learning/assets/72471173/2274eac4-d886-498d-a834-cf593d59370a)
+![image](https://github.com/jmccw/reinforcement_learning/assets/72471173/cdf6033d-f419-44f6-a890-af528b5661fa)
+![image](https://github.com/jmccw/reinforcement_learning/assets/72471173/ee97179d-b86e-4ebb-8d52-8669e1cda4c1)
 
 # Frozen Lake Solutions (Q-Learning):
 
@@ -35,7 +36,4 @@ EPISODE 4000:
 
 Algorithm Performance (See text):
 
-![image](https://github.com/jmccw/reinforcement_learning/assets/72471173/cdf6033d-f419-44f6-a890-af528b5661fa)
-![image](https://github.com/jmccw/reinforcement_learning/assets/72471173/ee97179d-b86e-4ebb-8d52-8669e1cda4c1)
-
-
+![image](https://github.com/jmccw/reinforcement_learning/assets/72471173/2274eac4-d886-498d-a834-cf593d59370a)
