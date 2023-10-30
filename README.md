@@ -3,7 +3,7 @@ AM3064 Project Report and source code. Source code is intended to be run in Goog
 
 This project derived and utilised Bellman Optimality for Reinforcement Learning
 
-Co-Authored with Adam Tang (UCC Maths & Physics), James O'Sullivan (UCC Maths & Physics)
+*Text co-authored with Adam Tang (UCC Maths & Physics), James O'Sullivan (UCC Maths & Physics).
 
 # CartPole Solutions:
 
